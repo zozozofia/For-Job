@@ -90,11 +90,9 @@ You can find me on Fiverr offering prompt-writing services.
 
 ## Contact
 
-- Fiverr: [Insert your Fiverr profile link here]
+- Fiverr: [https://www.fiverr.com/waiyantoemyint]
 - GitHub: [https://github.com/zozozofia](https://github.com/zozozofia)
-- Email (optional): yourname@email.com
-
----
+- Email (optional): waiyantoemyint1@gmail.com
 
 ## License
 
